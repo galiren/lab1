@@ -1,0 +1,8 @@
+# ignore venv
+lab1/
+.venv
+
+.idea/
+
+# ignore pycache
+__pycache__/
